@@ -1,4 +1,4 @@
--  I’m @Art-Ndiema
+-  I’m Art-Ndiema
 - A student currently undertaking my undergraduate in IT....I'm African
 - Fluent in C++, Java,HTML, CSS,JS,PHP and Dart 
 - Currently working with flutter
